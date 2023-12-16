@@ -1,0 +1,8 @@
+File size reader
+Encryption/Decryption Tool
+Text Editor
+File Explorer (Text-Based)
+Basic Paint Program
+Compress text files
+Jpeg to Png
+Image Processing Filters
